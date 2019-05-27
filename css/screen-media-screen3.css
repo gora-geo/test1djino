@@ -1,0 +1,1050 @@
+
+
+    #chena{}
+     #chena2{}
+     #ru4{}
+      #tiha{}  
+       #yan {}
+       #button1 {}
+       #strelka{}
+        @media screen and (max-width:1406px) {
+          #st-1{
+    width:100%;
+    margin-left: 0px;
+    left: 0;
+  }
+  #st-2{
+    width:100%;
+    margin-left: 0px;
+    left: 0;
+  }
+  #st-3{
+    width:100%;
+    margin-left: 0px;
+    left: 0;
+  }
+  body{
+    width:100%;
+    background-width:100%;
+  }
+
+  html{
+    width:100%;
+  }
+
+        }
+
+        @media screen and (max-width:1213px) {
+          #setka{
+            width:90%;
+            left:5.54029304029304%;
+    margin-left: 0;
+          }
+
+
+}
+@media screen and (max-width:1014px) {
+#yan6{
+   white-space: normal;
+   left: -8px;
+
+  }
+
+  
+
+
+}
+@media screen and (max-width:950px) {
+#ru4{
+   font-size: 40px;
+
+  }
+
+
+}
+@media screen and (max-width:909.75px) {
+          #setka{
+            width:819px;
+            left:20px;
+    margin-left: 0;
+          }
+
+           #cl-1{
+    width: 60px;
+    left: 0;
+
+  }
+   #cl-2{
+    width: 60px;
+    left: 69px;
+
+  }
+#cl-3{
+    width: 60px;
+    left: 138px;
+
+  }
+
+  #cl-4{
+    width: 60px;
+    left: 207px;
+
+  }
+  #cl-5{
+    width: 60px;
+    left: 276px;
+
+  }
+  #cl-6{
+    width: 60px;
+    left: 345px;
+
+  }
+  #cl-7{
+    width: 60px;
+    left: 414px;
+
+  }
+  #cl-8{
+    width: 60px;
+    left: 483px;
+
+  }
+
+  #cl-9{
+    width: 60px;
+    left: 552px;
+
+  }
+  #cl-10{
+    width: 60px;
+    left: 621px;
+
+  }
+  #cl-11{
+    width: 60px;
+    left: 690px;
+
+  }
+  #cl-12{
+    width: 60px;
+    left: 759px;
+
+  }
+
+     #ru4{
+     /* left: -45px;*/
+      
+      font-size: 40px;
+       
+      letter-spacing: 2.5px;/*между символами*/
+      line-height: 50px;/*между строк*/
+    }   
+
+
+    #cirk11{
+      visibility: hidden;
+    }
+    #cirk111{
+     visibility: hidden;
+    }
+    #cirk22{
+     visibility: hidden;
+    }
+    #cirk33{
+     visibility: hidden;
+    }
+        }
+        @media screen and (max-width:859px) {
+          #setka{
+            width:95%;
+            left:20px;
+    margin-left: 0;
+          }
+          #strelka{
+            left: 20px;
+            margin-left: -15px;
+          }
+
+          #cl-1{
+    width: 25%;
+    left: 0;
+
+  }
+   #cl-2{
+    width: 25%;
+    left: 0;
+
+  }
+#cl-3{
+   width: 25%;
+    left: 0;
+
+  }
+
+  #cl-4{
+   width: 25%;
+    left: 25%;
+
+  }
+  #cl-5{
+    width: 25%;
+    left: 25%;
+
+  }
+  #cl-6{
+    width: 25%;
+    left: 25%;
+
+  }
+  #cl-7{
+    width: 25%;
+    left: 50%;
+    z-index: 13;
+
+  }
+  #cl-8{
+    width: 25%;
+    left: 50%;
+
+  }
+
+  #cl-9{
+    width: 25%;
+   left: 50%;
+
+  }
+  #cl-10{
+   width: 25%;
+    left: 75%;
+
+  }
+  #cl-11{
+    width: 25%;
+    left: 75%;
+
+  }
+  #cl-12{
+    width: 25%;
+    left: 75%;
+
+  }
+
+
+
+
+
+          #button1 {
+            /*left: 345px;*/
+          }
+          #button2 {
+           /* left: 345px;*/
+          }
+          #button3 {
+            /*left: 345px;*/
+          }
+          #yan {
+            /*left: -55px;*/
+          }
+         #chena{
+     
+      font-size: 70px;
+     /* left: -55px;*/
+      letter-spacing: 5px;/*между символами*/
+      
+      
+      
+
+      
+    }
+    #chena2{
+     
+      font-size: 70px;
+      left: screen;
+
+       /* left: -55px;*/
+      letter-spacing: 4.5px;/*между символами*/
+      
+      
+      
+    }
+    
+ 
+    
+    #plus{
+ 
+      font-size: 17px;
+  
+  /*width: 679px;*/
+  height: 130px;
+
+}  
+
+#plus1{
+
+  margin-top:25px;
+margin-left: 20px;
+ margin-right: 140px;
+ 
+  padding-right: 100px;
+
+/*margin-top: 30px;*/
+
+}  
+
+#tiha{
+  
+/*left: 76%;*/
+bottom: 40px;
+
+ 
+}  
+
+ .arrow_box {
+ 
+    width: screen-20;
+    
+   /* height: 122px;*/
+
+  
+}
+#blok-text {
+  top:0px;
+}
+
+  #yan{
+    
+   
+    
+    }
+    #yan1{
+       font-size: 15px;
+   
+    text-align: center;
+    left: 50%;
+    margin-left: -15px;
+    
+    }
+    #yan2{
+    
+    font-size: 15.4px;
+   left: 50%;
+    margin-left: -45px;
+    
+    }
+    #yan3{
+    
+    font-size: 15px;
+  
+    left: 50%;
+    margin-left: -50px;
+    
+  }
+  #yan4{
+   
+    font-size: 15px;
+    
+   left: 50%;
+    margin-left: -25px;
+   
+  }
+
+  #yan5{
+    
+    font-size: 15px;
+    
+   left: 50%;
+    margin-left: -35px;
+    
+    }
+
+    #yan6{
+   
+    font-size: 15.5px;
+    left: 50%;
+    margin-left: -35px;
+   
+    
+    }
+    #yan7{
+    
+    font-size: 15.5px;
+    left: 50%;
+    margin-left: -45px;
+    
+    }
+    #yan8{
+    
+    font-size: 15.7px;
+    left: 50%;
+    margin-left: -35px;
+    
+    }
+
+    .link3{
+   
+left: 50%;
+
+
+}
+.link4{
+   
+left: 50%;
+
+ 
+
+}
+.link5{
+    
+  left: 50%;
+
+}
+.link6{
+    
+
+left: 50%;
+
+}
+
+.link10{
+    
+  left: 50%;
+
+}
+.link11{
+    
+left: 50%;
+ 
+
+}
+.link12{
+    
+  left: 50%;
+ 
+}
+.link13{
+    
+  left: 50%;
+}
+#name_domen{
+  
+ /* width: 687px;
+  height: 80px;*/
+/*  left: 360px;*/
+/*margin-left: -362px;
+  /*top:420px;*/
+  
+}
+#name_domen2{
+ 
+ /* width: 722px;
+  height: 125px;*/
+/*left: 360px;*/
+/*margin-left: -362px;*/
+  
+
+}
+#ru3{
+    /* left: -60px;*/
+      font-size: 30px;
+        }
+        #ru2{
+      
+      font-size: 30px;
+     /* left: -40px;*/
+      
+    }
+
+    #niz {
+    
+    width: 89%;
+   
+}
+      }
+        /* для декстопов */
+        @media screen  and (max-width:769px)  {
+           #button2 {
+           top:1577px;
+          }
+
+
+          #setka{
+           
+           /* left:20px;*/
+               /* width: 77%;*/
+    
+          }
+        #yan{
+   
+    top:43px;
+  }
+
+     #chena{
+     
+      font-size: 50px;
+     /* left: -55px;*/
+      letter-spacing: 4px;/*между символами*/
+      
+      
+      
+
+      
+    }
+    #chena2{
+     
+      font-size: 50px;
+
+       /* left: -55px;*/
+      letter-spacing: 3.5px;/*между символами*/
+      
+      
+      
+    }
+
+    .arrow_box {
+      visibility: hidden;
+    }
+       #ru2{
+      top:880px;
+      font-size: 20px;
+      left: 20px;*/
+      
+    }
+
+    #ru3{
+    /* left: -60px;*/
+      font-size: 20px;
+        }
+
+        #ru4{
+     /* left: -45px;*/
+      
+      font-size: 30px;
+       
+      letter-spacing: 2.5px;/*между символами*/
+      line-height: 40px;/*между строк*/
+    }   
+
+      #plus{
+ 
+      font-size: 15px;
+  
+  /*width: 679px;*/
+  height: 130px;
+
+}  
+
+#name_domen{
+  
+  width: 95%;
+  height: 80px;
+  left: 0;
+margin-left: 0;
+  /*top:420px;*/
+      padding: 0px 0px 0px 5%;
+  
+}
+#name_domen2{
+  
+  width: 100%;
+  height: 125px;
+left: 0;
+margin-left: 0;
+  
+
+}
+
+.button {
+ 
+    right: 13px;
+
+  }
+  #cl-2{
+    width: 40%;
+    left: 0;
+
+  }
+  #cl-5{
+    width: 40%;
+    left: 0;
+  }
+  #cl-8{
+    width: 40%;
+    left: 50%;
+
+  }
+  #cl-11{
+    width: 40%;
+    left: 50%;
+  }     
+
+
+  #yan4{
+   
+    top:1190px;
+   
+  }
+
+  #yan6{
+    
+    top:1484px;
+    left: 50%;
+    margin-left: -60px;
+    
+    }
+
+    .link6{
+    
+
+top:1117px;
+
+}   
+.link11{
+    
+
+top:1432px;
+
+} 
+
+  #yan5{
+   
+    top:1190px;
+   
+  }
+
+  #yan8{
+    
+    top:1484px;
+    
+    }
+
+    .link3{
+    
+
+top:1117px;
+
+}   
+.link13{
+    
+
+top:1432px;
+
+}  
+/**/
+
+
+  #yan1{
+   
+    top:1043px;
+   
+  }
+
+  #yan2{
+    
+    top:1337px;
+    
+    
+    }
+
+    .link4{
+    
+
+top:960px;
+
+}   
+.link10{
+    
+
+top:1270px;
+
+} 
+
+
+  #yan3{
+   
+    top:1023px;
+   
+  }
+
+  #yan7{
+    
+    top:1337px;
+    
+    }
+
+    .link5{
+    
+
+top:960px;
+
+}   
+.link12{
+    
+
+top:1275px;
+
+}
+
+#plus1 {
+    
+    padding-right: 60px;
+    /* margin-top: 30px; */
+  }
+ 
+        }
+@media screen and (max-width:610px)  {
+
+             #ru4{
+     /* left: -45px;*/
+      
+      font-size: 25px;
+       
+      letter-spacing: 2.5px;/*между символами*/
+      line-height: 40px;/*между строк*/
+    }  
+
+      #chena{
+     
+      font-size: 45px;
+     /* left: -55px;*/
+      letter-spacing: 4px;/*между символами*/
+      
+      
+      
+
+      
+    }
+    #chena2{
+     
+      font-size: 45px;
+
+       /* left: -55px;*/
+      letter-spacing: 3.5px;/*между символами*/
+      
+      
+      
+    }
+     #plus1 {
+    
+    
+     margin-top: 10px; 
+  }        
+        }
+
+
+@media screen and (max-width:520px)  {
+
+                    #ru4{
+     /* left: -45px;*/
+      
+      font-size: 20px;
+       
+      letter-spacing: 2.5px;/*между символами*/
+      line-height: 40px;/*между строк*/
+    }  
+
+      #chena{
+     
+      font-size: 40px;
+     /* left: -55px;*/
+      letter-spacing: 4px;/*между символами*/
+      
+      
+      
+
+      
+    }
+    #chena2{
+     
+      font-size: 40px;
+
+       /* left: -55px;*/
+      letter-spacing: 3.5px;/*между символами*/
+      
+      
+      
+    }
+    #tiha {
+    position: absolute;
+    right: 10px;
+  }
+
+  #plus {
+    font-size: 12px;
+  }
+
+  #plus1 {
+    padding-right: 40px;
+  }
+             
+        }
+        @media screen and (max-width:480px)  {
+
+          #setka{
+           
+            left:20px;
+                width: 90%;
+    
+          }
+
+          
+      #chena{
+     
+      font-size: 24px;
+     /* left: -55px;*/
+      letter-spacing: 4px;/*между символами*/
+      
+      
+      
+
+      
+    }
+    #chena2{
+     
+      font-size: 24px;
+
+       /* left: -55px;*/
+      letter-spacing: 3.5px;/*между символами*/
+      line-height: 20px;
+      
+      
+    }
+
+    #ru2{
+      
+      font-size: 15px;
+     /* left: -40px;*/
+      
+    }
+
+    #ru3{
+    /* left: -60px;*/
+      font-size: 15px;
+        }
+
+         #ru4{
+     /* left: -45px;*/
+      
+      font-size: 20px;
+
+      top:1800px;
+       
+      letter-spacing: 1.5px;/*между символами*/
+      line-height: 30px;/*между строк*/
+    }  
+
+    #button3 {
+           top:2012px;
+          }
+
+          #plus{
+ margin-right: 20px;
+  height: 210px;
+  top:2100px;
+  
+}
+
+#plus1 {
+  /*width: 195%;*/
+     /* width: 250px;*/
+      width: 100%
+    /* height: 100px; */
+    padding-right: 10px;
+    margin-right: 20px;
+    padding-right: 10px;
+
+    /* margin-top: 30px; */
+  }
+
+    #tiha {
+    position: absolute;
+    right: 0px;
+    left: 50%;
+    margin-left: -150px;
+  }
+  .link14 {
+     left: 50%;
+    margin-left: 70px;
+  }
+
+  #niz{
+
+  top:2345px;
+  
+  /*white-space:  nowrap ;/*перенос слов*/
+}
+         
+
+         #yan1{
+       font-size: 15px;
+   
+    text-align: center;
+    left: 45%;
+    margin-left: -15px;*/
+    white-space: normal;
+    
+    }
+    #yan2{
+    text-align: center;
+    font-size: 15.4px;
+   left: 75%;
+   /*
+    margin-left: -25px;н*/
+    white-space: normal;
+    
+    }
+    #yan3{
+    
+    font-size: 14px;
+  white-space: normal;
+  left: 85%;  
+    
+  }
+  #yan4{
+   text-align: center;
+    font-size: 14px;
+    left: 60%;
+  white-space: normal;
+   
+  }
+
+  #yan5{
+    
+    font-size: 14px;
+    white-space: normal;
+  left: 55%;  
+    
+    }
+
+    #yan6{
+   
+    font-size: 14.5px;
+    white-space: normal;
+    text-align: center;
+    /*left: 40px;*/
+    left: 90%
+    /*margin-left: -35px;*/
+   
+    
+    }
+    #yan7{
+
+      white-space: normal;
+    
+    font-size: 14.5px;
+    left: 85%;
+    
+    }
+    #yan8{
+    white-space: normal;
+    font-size: 14.7px;
+   
+    
+    }
+
+#name_domen{
+
+ /* height: 160px;*/
+
+ 
+}
+#name_domen2{
+ 
+  height: 205px;
+
+  top:280px;
+ 
+
+}
+.button {
+    
+    top: 95px;
+    bottom: 55px;
+       right: 0px;
+ left: 50%;
+ width: 150px;
+ margin-left: -95px;
+  }
+#poplavok{
+  font-size: 13.5px;
+      margin-left: -150px;
+      padding-right: 20px;
+      padding-left: 10px;
+
+  top:150px;}
+
+
+  #button2 {
+           /* left: 345px;*/
+           top:1577px;
+
+          }
+    
+        }
+        @media screen and (max-width:430px) {
+ #ru4{
+     /* left: -45px;*/
+      
+      font-size: 15px;
+       
+      letter-spacing: 1.5px;/*между символами*/
+      line-height: 30px;/*между строк*/
+    }  
+
+
+    #tiha{
+  
+/*left: 76%;*/
+bottom: 30px;
+
+ 
+}  
+
+        }
+
+        @media screen and (max-width:380px) {
+
+          #ru2{
+      
+      font-size: 14px;
+   /*  left: -10px;*/
+      
+    }
+
+        }
+        @media screen and (max-width:320px) {
+
+          #setka{
+           
+            left:20px;
+                width: 270px;
+    
+          }
+          body {
+             width: 320px;
+
+        }
+
+          #tiha{
+  
+/*left: 76%;*/
+bottom: 10px;
+
+ 
+}  
+
+#ru4{
+  /*margin-left: 20px;*/
+}
+
+
+          #ru2{
+      
+      /*font-size: 14px;*/
+     left: -5px;*/
+      
+    }
+
+    }
+
+

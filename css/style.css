@@ -1,0 +1,1024 @@
+
+body {
+	margin:0 0 0 0 ;
+  background: #282828;
+}
+	#cl-1{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left:0;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-2{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 8.424908424908425%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-3{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 16.84981684981685%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-4{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 25.274725274725274%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-5{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 33.6996336996337%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-6{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 42.124542124542124%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-7{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 50.54945054945055%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-8{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 58.97435897435898%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-9{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 67.3992673992674%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-10{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 75.82417582417582%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-11{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		
+		left: 84.24908424908425%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#cl-12{
+		position: absolute;
+		/*background-color: red;*/
+		width: 7.326007326007327%;
+		height: 2200px;
+		margin-right: 12px;
+		left: 92.67399267399267%;
+		top:0;
+		/*opacity: 0.5; /* Полупрозрачность элемента */
+	}
+	#setka{
+		/*background-image: url(images/background1.jpg);
+		position: absolute;
+		/*margin-right: 60.5px;*/
+		/*left:60.5px;*/
+    position: absolute;
+display:table-cell;
+		width:1092px;
+		height: 2304px;
+		left:50%;
+		margin-left: -546px;
+    /*background: green;*/
+/*opacity: 0.5;*/
+    text-align: center;
+    z-index: 2;
+		
+	}
+	#st-1
+	{
+		background: url(images/background1.jpg) no-repeat ;/*images/background1.jpg*/
+		
+		position: absolute;
+		/*margin-right: 60.5px;*/
+		/*left:60.5px;*/
+		width:1406px;
+		left:50%;
+		margin-left: -703px;
+		height: 844px; /*844*/
+		opacity: 1; /* Полупрозрачность элемента */
+
+	}
+	#st-2{
+		background: white;
+		position: absolute;
+		/*margin-right: 60.5px;*/
+		/*left:60.5px;*/
+		top:844px;
+
+		width:1406px;
+		left:50%;
+margin-left: -703px;
+		height: 844px;
+		/*border: solid 1px;*/
+		opacity: 1; /* Полупрозрачность элемента */
+
+	}
+	#st-3 {
+		background: url(images/background2.jpg) ;
+		
+		position: absolute;
+		/*margin-right: 60.5px;*/
+		/*left:60.5px;*/
+		top:1688px;
+margin-left: -703px;
+		width:1406px;
+		left:50%;
+
+		height: 844px;
+		opacity: 1; /* Полупрозрачность элемента */
+
+	}
+	#cl-1{z-index: 2}
+	#cl-2{z-index: 2}
+	#cl-3{z-index: 2}
+	#cl-4{z-index: 2}
+	#cl-5{z-index: 2}
+	#cl-6{z-index: 2}
+	#cl-7{z-index: 2}
+	#cl-8{z-index: 2}
+	#cl-9{z-index: 2}
+	#cl-10{z-index: 2}
+	#cl-11{z-index: 2}
+	#cl-12{z-index: 2}
+	#st-1{z-index: 1}
+	#setka{z-index: 3}
+
+#tiha{
+  position: absolute;
+    right: 29px;
+bottom: 23px;
+margin-right:40px;
+font-family: Lucida Consol, Monaco, monospace;
+font-size:55px;
+color:#ffffff;
+
+letter-spacing: 1.7px;/*между символами*/
+}
+	#djinolg{
+		position: absolute;
+		/*top:20px;*/
+		fill:red;
+		color: red;
+		/*background-color: red;
+		/*width: 40px;
+		height: 20px;*/
+
+		
+	}
+	.img-svg path {
+		fill:#211214;
+
+	}
+		.link{
+		position: absolute;
+		top:28px;
+  width: 80px;
+  height: 80px;
+
+
+  background-color: #ffffff;
+  display: block;
+
+  /*-webkit-mask-image: url('images/logo.svg');*/
+  background: url('images/logo2.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+	.link0{
+		position: absolute;
+		top:1715px;
+  width: 80px;
+  height: 80px;
+
+
+  background-color: #ffffff;
+  display: block;
+
+  /*-webkit-mask-image: url('images/logo.svg');*/
+  background: url('images/logo2.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+.link2{
+		position: absolute;
+		top:870px;
+  width: 80px;
+  height: 80px;
+
+
+  background-color: #c20919;
+  display: block;
+
+ /* -webkit-mask-image: url('images/logo2.svg');*/
+  background: url('images/logo.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+.link3{
+		position: absolute;
+		top:1060px;
+  width: 80px;
+  height: 80px;
+left: 13px;
+
+  background-color: #846558;
+  display: block;
+
+  /*-webkit-mask-image: url('images/autorenewal.svg');*/
+  background: url('images/autorenewal.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+ /* background: no-repeat;*/
+
+}
+.link4{
+		position: absolute;
+		top:1060px;
+  width: 80px;
+  height: 80px;
+left: 8px;
+
+  background-color: #F7751D;
+  display: block;
+
+  /*-webkit-mask-image: url('images/businesscard.svg');*/
+   background: url('images/businesscard.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+.link5{
+		position: absolute;
+		top:1060px;
+  width: 80px;
+  height: 80px;
+  left: 13px;
+
+
+  background-color: #F7B21D;
+  display: block;
+
+ /* -webkit-mask-image: url('images/certificate.svg');*/
+   background: url('images/certificate.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+.link6{
+		position: absolute;
+		top:1060px;
+  width: 80px;
+  height: 80px;
+
+left: 13px;
+
+  background-color: #5F6062;
+  display: block;
+
+ /* -webkit-mask-image: url('images/dns.svg');*/
+  background: url('images/dns.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+
+.link10{
+		position: absolute;
+		top:1370px;
+  width: 80px;
+  height: 80px;
+  left: 10px;
+
+
+  background-color: #00BABA;
+  display: block;
+
+ /* -webkit-mask-image: url('images/cloud.svg');*/
+   background: url('images/cloud.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+.link11{
+		position: absolute;
+		top:1375px;
+  width: 80px;
+  height: 80px;
+  left: 15px;
+
+
+  background-color: #77B53C;
+  display: block;
+
+  /*-webkit-mask-image: url('images/freessl.svg');*/
+   background: url('images/freessl.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+.link12{
+		position: absolute;
+		top:1375px;
+  width: 80px;
+  height: 80px;
+  left: 15px;
+
+
+  background-color: #B32317;
+  display: block;
+
+  /*-webkit-mask-image: url('images/dnssec.svg');*/
+   background: url('images/dnssec.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+.link13{
+		position: absolute;
+		top:1375px;
+  width: 80px;
+  height: 80px;
+  left: 15px;
+
+
+  background-color: #7D4199;
+  display: block;
+
+  /*-webkit-mask-image: url('images/redirect.svg');*/
+   background: url('images/redirect.svg') no-repeat;
+
+  -webkit-mask-repeat:no-repeat;
+
+}
+.link14{
+		position: absolute;
+		top:20px;
+  width: 60px;
+  height: 60px;
+left: 134px;
+
+  background-color: #ffffff;
+  display: block;
+
+  /*-webkit-mask-image: url('images/plus-normal5.svg');*/
+  background: url('images/plus-normal5.svg') no-repeat;
+  -webkit-mask-repeat:no-repeat;
+
+}
+#dom1{
+	position: absolute;
+		top:25.5px;/*25*/
+		left: 74.5px;
+		color: #ffffff;
+		font-size: 14.5px;
+		font-family: 'Arial ', sans-serif;
+		/*font-family: 'Roboto', sans-serif;*/
+		/*font-family: 'Open Sans', sans-serif;*/
+		font-weight: 600;
+}
+#dom2{
+	position: absolute;
+		top:867px;
+		left: 75px;
+		color: #000000;
+		font-size: 14.5px;
+		font-family: 'Roboto', sans-serif;
+		/*font-family: 'Roboto', sans-serif;*/
+		/*font-family: 'Open Sans', sans-serif;*/
+		font-weight: 600;
+}
+#dom3{
+	position: absolute;
+		top:1712px;
+		left: 75px;
+		color: #ffffff;
+		font-size: 14.5px;
+		font-family: 'Roboto', sans-serif;
+		/*font-family: 'Roboto', sans-serif;*/
+		/*font-family: 'Open Sans', sans-serif;*/
+		font-weight: 600;
+}
+.div{
+  height: 55px;
+  width: 62px;
+/*  background-color: ;*/
+  /*-webkit-mask-image: url('images/logo.svg');*/
+   background: url('images/logo.svg') no-repeat;
+}
+
+
+	 #yan{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    top:23px;
+    font-weight: bold;
+
+        text-align: center;
+    /*  left:4px;*/
+    width: 100%;
+    font-size: 11.5px;
+    letter-spacing: 2px;/*между символами*/
+  /*  left: 5px;*/
+    color: #ffffff;
+    white-space:  nowrap ;/*перенос слов*/
+    }
+		#yan1{
+		position: absolute;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-weight: 500;*/
+		top:1143px;
+		font-size: 18px;
+    text-align: center;
+		color: #000000;
+		left: -15px;
+		white-space: pre; /* Учитываются все пробелы и переносы */ 
+		}
+		#yan2{
+		position: absolute;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-weight: bold;*/
+		top:1437px;
+		font-size: 18.4px;
+    text-align: center;
+		left: -55px;
+		color: #000000;
+		white-space: pre; /* Учитываются все пробелы и переносы */ 
+		line-height: 25px;/*между строк*/
+		}
+		#yan3{
+		position: absolute;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-weight: bold;*/
+		top:1123px;
+		font-size: 18px;
+    text-align: center;
+		color: #000000;
+		left: -57px;
+		white-space: pre; /* Учитываются все пробелы и переносы */
+		    line-height: 27px;/*между строк*/
+	}
+	#yan4{
+		position: absolute;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-weight: bold;*/
+		top:1143px;
+		font-size: 18px;
+    text-align: center;
+		color: #000000;
+		left: -25px;
+		white-space: pre; /* Учитываются все пробелы и переносы */
+		    /*line-height: 27px;/*между строк*/
+	}
+
+	#yan5{
+		position: absolute;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-weight: bold;*/
+		top:1143px;
+		font-size: 18px;
+    text-align: center;
+		color: #000000;
+		left: -23px;
+		white-space: pre; /* Учитываются все пробелы и переносы */ 
+		}
+
+		#yan6{
+		position: absolute;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-weight: bold;*/
+		top:1437px;/*1437*/
+		font-size: 18.5px;
+		left: -78px;
+    text-align: center;
+    /*width: 350%;*/
+		color: #000000;
+		white-space: pre; /* Учитываются все пробелы и переносы */ 
+		line-height: 25px;/*между строк*/
+		}
+		#yan7{
+		position: absolute;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-weight: bold;*/
+		top:1437px;/*1437*/
+		font-size: 18.5px;
+    text-align: center;
+		left: -43px;
+		color: #000000;
+		white-space: pre; /* Учитываются все пробелы и переносы */ 
+		line-height: 25px;/*между строк*/
+		}
+		#yan8{
+		position: absolute;
+		font-family: 'Ubuntu', sans-serif;
+		/*font-weight: bold;*/
+		top:1437px;/*1437*/
+		font-size: 18.7px;
+    text-align: center;
+		left: -35px;
+		color: #000000;
+		white-space: pre; /* Учитываются все пробелы и переносы */ 
+		line-height: 25px;/*между строк*/
+		}
+		#chena{
+			position: absolute;
+			font-family: 'PT Sans', sans-serif;
+			font-weight: bold;
+			top:78px;
+			font-size: 80px;
+      text-align: center;
+		/*	left:4px;*/
+    width: 100%;
+			letter-spacing: 6px;/*между символами*/
+			color: #ffffff;
+			white-space:  nowrap ;/*перенос слов*/
+			text-align: center;
+			line-height: 75px;
+      
+
+			
+		}
+		#chena2{
+			position: absolute;
+			font-family: 'PT Sans', sans-serif;
+			font-weight: bold;
+			top:155px;
+			font-size: 80px;
+
+        text-align: center;
+    /*  left:4px;*/
+    width: 100%;
+			/*left:-18px;*/
+			letter-spacing: 5.5px;/*между символами*/
+			color: #ffffff;
+			white-space:  nowrap ;/*перенос слов*/
+			text-align: center;
+			line-height: 75px;
+			
+		}
+		#ru{
+			position: absolute;
+			font-family: 'Open Sans', sans-serif;
+			font-weight: bold;
+			top:308px;
+			font-size: 82px;
+			color: #ffffff;
+			left: -20px;
+		}
+#ru2{
+			position: absolute;
+			font-family: 'Ubuntu', sans-serif;
+			/*font-weight: bold;*/
+			top:910px;
+       text-align: center;
+    /*  left:4px;*/
+    width: 100%;
+			font-size: 32.5px;
+			color: #333333;
+			/*left: 32px;*/
+			white-space:  nowrap ;/*перенос слов*/
+		}
+		#ru3{
+			position: absolute;
+			font-family: 'Ubuntu', sans-serif;
+			/*font-weight: bold;*/
+			top:1753px;
+      text-align: center;
+    /*  left:4px;*/
+    width: 100%;
+			font-size: 32.5px;
+			color: #ffffff;
+			/*left: -170px;*/
+			white-space:  nowrap ;/*перенос слов*/
+		}
+
+#ru4{
+			position: absolute;
+			font-family: 'PT Sans', sans-serif;
+			font-weight: bold;
+			top:1860px;
+			font-size: 50px;
+       text-align: center;
+    /*  left:4px;*/
+    width: 100%;
+			color: #ffffff;
+      text-align: center;
+    /*  left:4px;*/
+    width: 100%;
+			/*left: -380px;*/
+			white-space:  nowrap ;/*перенос слов*/
+			letter-spacing: 3.5px;/*между символами*/
+			line-height: 60px;/*между строк*/
+		}
+
+.rubl {
+font-family: 'ptsansrub-regular', serif;
+
+}
+#name_domen{
+	position: absolute;
+	border-radius: 10px;
+	border: 0px solid black;
+	width: 687px;
+	height: 80px;
+  left: 50%;
+margin-left: -362px;
+	/*top:420px;*/
+	z-index: 10;
+	    padding: 0px 0px 0px 35px;
+	     font:22px 'Arial', sans-serif; 
+color: #404040;
+	     letter-spacing: 0.5px;/*между символами*/
+	 font-weight: 500;
+}
+#name_domen2{
+	position: absolute;
+	border-radius: 10px;
+	background: #31373f;
+	/*left: 30px;
+	 /*border: 1px solid #dcdcdc; /* Параметры границы */
+	width: 722px;
+	height: 125px;
+left: 50%;
+margin-left: -362px;
+	top:380px;
+	z-index: 10;
+
+}
+.button{
+	position: absolute;
+	top:15px;
+  right: 13px;
+ /*left: 552px;*/
+	z-index: 11;
+	text-decoration:none; text-align:center; 
+ padding:11px 27px 11px 25px;  
+ border:solid 1px #e2e2e3; 
+ -webkit-border-radius:7px;
+ -moz-border-radius:7px; 
+ border-radius: 7px; 
+ font:19.2px 'Open Sans', sans-serif; 
+ font-weight:400; 
+ color:#ffffff; 
+ background:#5f6062; 
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+  }
+
+
+  .button:hover{
+ 	
+ background:#686b70; 
+
+
+  
+ }
+
+ 
+#niz3{
+  font-size: 12px;
+  line-height: 1.5;
+  color: #828993
+}
+ 
+#button1 {
+    position: absolute;
+    left: 50%;
+    margin-left: -130px;
+    top:539px;/*539*/
+   /* left: -250px;*/
+    display: inline-block;
+    font: 21.2px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+    padding: 16px 49px 16px 42px;
+    outline: none;
+    border-radius: 6px;
+    border: 0px;
+    z-index: 13;
+    background: linear-gradient( #8dba07, #9ec500) #8dba07;
+    background: -webkit-linear-gradient( #8dba07, #9ec500) #8dba07;
+}
+
+#button1:hover{
+ 	
+ background:#599f1e; 
+
+}
+#button2 {
+    position: absolute;
+    
+    left: 50%;
+    margin-left: -130px;
+    top:1547px;
+   /* left: -250px;*/
+    display: inline-block;
+    font: 21.2px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+    padding: 16px 49px 16px 42px;
+    outline: none;
+    border-radius: 6px;
+    border: 0px;
+    z-index: 13;
+    background: linear-gradient( #8dba07, #9ec500) #8dba07;
+    background: -webkit-linear-gradient( #8dba07, #9ec500) #8dba07;
+}
+#button2:hover{
+ 	
+ background:#599f1e; 
+
+}
+#button3 {
+    position: absolute;
+ 
+ left: 50%;
+    margin-left: -130px;
+    top:2192px;
+   /* left: -250px;*/
+    display: inline-block;
+    font: 21.2px Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    text-shadow: 0 -1px 2px rgba(0,0,0,.2);
+    padding: 16px 49px 16px 42px;
+    outline: none;
+    border-radius: 6px;
+    border: 0px;
+    z-index: 13;
+    background: linear-gradient( #8dba07, #9ec500) #8dba07;
+    background: -webkit-linear-gradient( #8dba07, #9ec500) #8dba07;
+}
+#button3:hover{
+ 	
+ background:#599f1e; 
+
+}
+
+
+#strelka{
+	position: absolute;
+	top:732px;
+	left: -18px;
+	z-index: 13;
+}
+
+#plus{
+	font-family: 'Ubuntu', sans-serif;
+			/*font-weight: bold;*/
+			font-size: 20.2px;
+	position: absolute;
+	background: red;
+ /* padding-right: 40px;*/
+	border-radius: 5px;
+	/*color: #ffffff;*/
+	width: 100%;
+	height: 110px;
+	top:2300px;
+	/*margin-top: 10px;
+	margin-left: 10px;
+	/*padding: 10px 10px 0px 40px;*/
+}
+#plus1{
+margin-left: 60px;
+/*margin-top: 30px;*/
+vertical-align: middle;
+ padding-right: 250px;
+line-height: 25px;color:#ffffff;
+}
+#niz{
+	position: absolute;
+	font-family: 'PT Sans', sans-serif;
+	font-size: 13.9px;
+  text-align: left;
+    /*  left:4px;*/
+    width: 100%;
+	font-weight: 500;
+	top:2445px;
+	color: #ffffff;
+	/*white-space:  nowrap ;/*перенос слов*/
+}
+#poplavok{
+	position: absolute;
+	top:75px;
+	left:50%;
+	margin-left: -170px;
+	font-family: 'PT Sans', sans-serif;
+	color: #ffffff;
+	font-size: 15.5px;
+/*	font-weight: 400;*/
+letter-spacing: 0.2px;/*между символами*/
+}
+#poplavok1{
+	font-family: 'PT Sans', sans-serif;
+	color: #92e663;
+}
+#prover{
+  position: absolute;
+
+}
+
+  #blok-text{
+  	font-family: 'Ubuntu', sans-serif;
+			/*font-weight: bold;*/
+			font-size: 14.1px;
+      margin-right: 20px;
+			position: absolute;
+      vertical-align: middle;
+      text-align: left;
+			font-stretch: ultra-condensed;
+			top:8px;/*9*/
+			left: 42px;
+			/*margin-right: 40px;*/
+			line-height: 19px;/*между строк*/
+			letter-spacing: 0px;/*между символами*/
+  }
+   .block {
+   	position: absolute;
+   	top:1217px;
+   	width: 1090px;
+   	height: 122px;
+   	    border: 1px solid green;
+    border-radius: 10px;
+    /*padding: 15px 0px 20px 20px;*/
+    	white-space:  nowrap ;/*перенос слов*/
+
+    position: relative;
+   }
+   .block::after, .block::before {
+    content: ''; 
+    position: absolute;
+    left: 115px; 
+    top:-40px;
+
+   /* border: 10px solid transparent;
+    border-top: 10px solid green;*/
+
+    	border: 16px solid transparent;
+    		border-bottom: 16px solid green;
+   }
+   .block::after {
+    border-bottom: 15px solid green;
+    top: -30px; 
+   }
+   
+  
+ .arrow_box {
+	position: absolute;
+	top:1217px;
+   	width: 100%;
+    margin-left: -2px;
+   	border-radius: 10px;
+   	height: 122px;
+	background: #f7f7f7;
+	border: 2px solid #d1d1d1;
+}
+.arrow_box:after, .arrow_box:before {
+	bottom: 100%;
+	left: 12%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.arrow_box:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-bottom-color: #f7f7f7;
+	border-width: 17px;
+	margin-left: -17px;
+}
+.arrow_box:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-bottom-color: #d1d1d1;
+	border-width: 19px;
+	margin-left: -19px;
+}
+  
+  	#cirk11{
+  		position: absolute;
+  		/*background: red;*/
+  		/*left: 1400px;
+  		top:387px;*/
+      right: 10px;
+  		z-index: 3;
+  		height: 73px;
+  		width: 13px;
+  	}
+  	#cirk111{
+  		position: absolute;
+  		/*background: red;*/
+  		/*left: 1400px;
+  		top:387px;*/
+      right: 10px;
+  		z-index: 3;
+  		height: 73px;
+  		width: 13px;
+  	}
+    #cirk22{
+      position: absolute;
+      /*background: red;*/
+      /*left: 1400px;
+      top:387px;*/
+      right: 10px;
+      z-index: 3;
+      height: 73px;
+      width: 13px;
+    }
+    #cirk33{
+      position: absolute;
+      /*background: red;*/
+      /*left: 1400px;
+      top:387px;*/
+      right: 10px;
+      z-index: 3;
+      height: 73px;
+      width: 13px;
+    }
+  	#cirk1{
+  		position: absolute;
+  		background-color: #333333;
+  		height: 11px;
+  		border-radius: 50%;
+  		border: 1px solid;
+  		border-color: #ffffff;
+  		width: 11px;
+  	}
+  	#cirk2{
+  		position: absolute;
+  		/*top:29px;*/
+  		background-color: #ffffff;
+  		height: 11px;
+  		border-radius: 50%;
+  		border: 1px solid;
+  		border-color: #333333;
+  		width: 11px;
+  	}
+  		#cirk3{
+  		position: absolute;
+  		/*top:58px;*/
+  		background-color: #ffffff;
+  		height: 11px;
+  		border-radius: 50%;
+  		border: 1px solid;
+  		border-color: #333333;
+  		width: 11px;
+  	}
+ 
